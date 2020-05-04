@@ -41,5 +41,5 @@ Software as a service (SaaS). With SaaS, cloud providers host and manage the sof
 To get started with using AWS Cloud, you should have aws account access you can also try free trail version which basically provides you
 30$ to access the services of aws.
 
-* [How to create an Ec2-instance.](
+* [How to create an Ec2-instance.](ec2.md)
 
