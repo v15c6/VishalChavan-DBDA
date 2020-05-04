@@ -37,5 +37,9 @@ Platform as a service (PaaS). PaaS is designed to make it easier for developers 
 * #### SaaS
 Software as a service (SaaS). With SaaS, cloud providers host and manage the software application and underlying infrastructure and handle any maintenance, like software upgrades and security patching.
 
+# GET STARTED
+To get started with using AWS Cloud, you should have aws account access you can also try free trail version which basically provides you
+30$ to access the services of aws.
 
+* [How to create an Ec2-instance.](
 
