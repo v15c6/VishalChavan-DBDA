@@ -36,11 +36,11 @@ Your instance will be launched with the following storage device settings. You c
 To help you manage your instances, images, and other Amazon EC2 resources, you can optionally assign your own metadata to each resource in the form of tags.
 ![Screenshot (9)](https://github.com/v15c6/VishalChavan-DBDA/blob/master/images/Screenshot%20(9).png)
 
-* #### Step6: Configure Security Group.
+* #### Step8: Configure Security Group.
 A security group is a set of firewall rules that control the traffic for your instance. On this page, you can add rules to allow specific traffic to reach your instance. For example, if you want to set up a web server and allow Internet traffic to reach your instance, add rules that allow unrestricted access to the HTTP and HTTPS ports. For beign beginner we use the default security group.
 ![Screenshot (10)](https://github.com/v15c6/VishalChavan-DBDA/blob/master/images/Screenshot%20(10).png)
 
-* #### Step7: Review Instance Launch.
+* #### Step9: Review Instance Launch.
 In this step we review our instance launch details. You can go back to edit changes for each section.
 
 ![Screenshot (11)](https://github.com/v15c6/VishalChavan-DBDA/blob/master/images/Screenshot%20(11).png)
