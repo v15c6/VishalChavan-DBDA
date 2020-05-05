@@ -5,7 +5,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure,
 #### Now lets see how to create EC2 in AWS
 * ##### Step1: Search EC2 service.
 In search bar search for ec2 service. Select ec2 service and then launch the instance.
-![Screenshot (2)](images/Screenshot (2).png)
+![](images/Screenshot%20(2).png)
 
 
 * ##### Step2: Launch ec2 server.
