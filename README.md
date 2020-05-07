@@ -44,3 +44,5 @@ To get started with using AWS Cloud, you should have aws account access you can 
 * [How to create an Ec2-instance.](ec2.md)
 
 * [Install Mobaxterm](https://mobaxterm.mobatek.net/download-home-edition.html)
+
+* [Access EC2 instance through Mobaxterm](access.md)
